@@ -1,0 +1,25 @@
+body
+{
+    background:radial-gradient(rgb(111, 199, 165),rgb(207, 142, 211),rgb(157, 186, 115))
+}
+#main
+{
+    background-color: rgba(255, 255, 255, 0.507);
+    padding: 200;
+    margin: 2;
+    border-color: rgba(255, 255, 255, 0);
+    align-content: center;
+    outline: solid 5px #6ee0d2;
+    transition: outline 0.6s linear;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-bottom-width: 140px;
+    border-bottom-style:solid;
+    border-radius: 20px;
+    position: relative;
+    background-position-x: 10px;
+    
+
+
+}
+
